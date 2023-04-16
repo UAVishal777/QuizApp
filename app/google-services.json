@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505393594792",
+    "project_id": "quizzed-e751b",
+    "storage_bucket": "quizzed-e751b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505393594792:android:7bc2aa5751fa2fb318dd9d",
+        "android_client_info": {
+          "package_name": "com.example.quizzed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505393594792-v6mik0pctfi67lr584m2ps4pqliia9j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zbLr-vRXmYTVxLB0pXTkESamNskEfSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505393594792-v6mik0pctfi67lr584m2ps4pqliia9j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
